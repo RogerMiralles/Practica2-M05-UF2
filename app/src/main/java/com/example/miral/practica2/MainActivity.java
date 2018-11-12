@@ -9,7 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        phosky tonto;
-        1;
+        //hola oscar, esto es una pruba para hacer un pull
     }
 }
